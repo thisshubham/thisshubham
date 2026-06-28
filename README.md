@@ -6,7 +6,6 @@ Building scalable enterprise applications, ERP systems, REST APIs, and business 
 
 📧 **Email Me 👉** [subham](subhampatel.tech@gmail.com) for freelance projects, collaborations, enterprise application development, or technical discussions.
 
----
 
 🔭 **I'm currently working on:**
 
@@ -15,55 +14,14 @@ Building scalable enterprise applications, ERP systems, REST APIs, and business 
 * Spring Boot Boilerplate for Enterprise Applications
 * Open Source Java Utilities
 
-🌱 **I'm currently learning:**
-
-* Microservices Architecture
-* System Design
-* AWS Cloud
-* Kubernetes
-* Redis
-* Apache Kafka
-* CI/CD Pipelines
-
-👯 **I'm looking to collaborate on:**
-
-* Java & Spring Boot Projects
-* Enterprise ERP Solutions
-* SaaS Applications
-* Open Source Projects
-* Backend Architecture
-
-🤔 **I'm looking for help with:**
-
-* Distributed Systems
-* Cloud-Native Applications
-* Open Source Contributions
-* High-Scale Backend Systems
-
-💬 **Ask me about:**
-
-* Java
-* Spring Boot
-* Angular
-* REST APIs
-* JWT Authentication
-* Hibernate
-* MySQL
-* Docker
-* ERP Development
-* Software Architecture
-
-📫 **How to reach me:**
-📧 [email](mailto:subhampatel.tech@gmail.com)
-
 🌐 **Portfolio:**
 [portfolio](https://thisshubham.github.io/Subhamportfolio/)
 
 💼 **LinkedIn:**
 [linkedIN
 ](https://www.linkedin.com/in/subham-kumar-b2a713228/?skipRedirect=true)
-😄 **Pronouns:**
-He
+
+😄 **Pronouns:** He
 
 ⚡ **Fun Fact:**
 I enjoy solving real business problems through clean architecture, scalable backend systems, and modern enterprise software development.
@@ -71,18 +29,6 @@ I enjoy solving real business problems through clean architecture, scalable back
 🚀 **Current Goal:**
 Building a strong engineering brand while contributing to open-source projects and delivering enterprise-grade software solutions.
 
-
-## Hi there 👋
-
-<!--
-**thisshubham/thisshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Subham) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_h_u_b_h_a_m_2609) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subham-kumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/subh152) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhampatel.tech@gmail.com) 
 
